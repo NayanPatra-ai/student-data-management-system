@@ -72,7 +72,7 @@ StudentID,Name,Age,Course
 *Nayan Patra*  
 BCA Student | Aspiring AI Engineer  
 GitHub: https://github.com/NayanPatra-ai
-linkedIn: linkedin.com/in/nayan-patra
+
 
 ---
 
